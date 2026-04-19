@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+
+# Virtual env
+venv/
+agent/
+.env
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# Secrets/config
+*.pem
+*.key
+*.log

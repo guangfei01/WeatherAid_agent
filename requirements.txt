@@ -1,0 +1,11 @@
+aiohttp
+mcp
+fastapi
+langgraph
+langchain
+langchain_mcp_adapters
+langchain_core
+uvicorn
+langchain-google-genai
+pydantic
+langchain-anthropic
